@@ -1,0 +1,35 @@
+*{
+   padding : 0px;
+   margin: 0px;
+ 
+}
+.outer{
+    width: 700px;
+    height: 800px;
+    margin: 0px auto;
+    
+}
+.outer h1{
+    text-align: center;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color: rgba(13, 227, 74, 0.731);
+
+}
+
+ul{
+   font-size: 15px;
+   margin-left: 40px; 
+}
+.photo{
+    float: left;
+}
+.photo img{
+    width: 100px;
+    margin: 10px;
+
+}
+
+
